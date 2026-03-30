@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+    <wallpaper deleted="false">
+        <name>Vylen Round</name>
+        <filename>/usr/share/backgrounds/gnome/vylen-round-l.png</filename>
+        <filename-dark>/usr/share/backgrounds/gnome/vylen-round-d.png</filename-dark>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#24b497</pcolor>
+        <scolor>#000000</scolor>
+    </wallpaper>
+</wallpapers>
